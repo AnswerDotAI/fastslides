@@ -1,6 +1,6 @@
 # fastslides
 
-Render a Markdown file, a Jupyter notebook or a Solveit dialog as HTML slides, and print them to PDF.
+Turn notebooks, md or Solveit dialogs into a slide deck with one command.
 
 ```bash
 pip install fastslides

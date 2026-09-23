@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "fastslides"
 dynamic = ["version"]
-description = "Markdown, notebooks and Solveit dialogs as HTML slides and PDF, on the mdhtml pipeline"
+description = "Turn notebooks, md or Solveit dialogs into a slide deck with one command."
 readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "Apache-2.0"}
